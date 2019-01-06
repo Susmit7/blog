@@ -1,0 +1,29 @@
+body{
+  background-color:#eaffd0;
+}
+img{
+  width:30%;
+  float: left;
+  margin:1.66%;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+
+  color: white;
+  margin-left:30% ;
+  font-size: 50px;
+}
+div{
+  background-color: #95e1d3;
+  height:300px;
+  margin:0px 0px 20px 0px;
+  padding-top: 80px;
+
+
+
+}
+hr{
+  width:20%;
+  color:grey;
+
+}
